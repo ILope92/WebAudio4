@@ -2,6 +2,7 @@
 Version Godot 4.3 dev6
 
 The port of the previously created project - https://github.com/probrain-dev/godot_web_external_audio_motor
+Attention! It is in the testing stage
 
 Plugin to use external web audio libraries within Godot, for this example we used : https://howler.js
 
