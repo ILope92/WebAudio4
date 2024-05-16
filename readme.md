@@ -1,9 +1,9 @@
 # Plugin GODOT - External Web Audio
-Version Godot 3.2.x
+Version Godot 4.3 dev6
 
-[![ProBrain](./poweredby-probrain.jpg)](https://probrain.com.br)
+The port of the previously created project - https://github.com/probrain-dev/godot_web_external_audio_motor
 
-Plugin to use external web audio libraries within Godot, for this example we used : [![Howler](./howler.png)](https://howler.js)
+Plugin to use external web audio libraries within Godot, for this example we used : https://howler.js
 
 # Features
  - You can implement any JS audio plugin in your Godot project
